@@ -5,7 +5,7 @@
   "author": "qhdhiman <qhdhiman@qq.com> (https://github.com/qhdhiman)",
   "main": "Serialize.js",
   "dependencies": {
-    "serialize-javascript": "^1.7.0"
+    "serialize-javascript": "^2.1.1"
   },
   "keywords": [
     "javascript",
